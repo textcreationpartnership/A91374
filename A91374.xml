@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more exact relation of the siege laid to the town of Leicester: how it was maintained, and how lost, and what quarter was given by the Kings forces. / Delivered in to the Honourable House of Commons by Sir Robert Pye governour of the said town, and Major Iames Ennis, June 10. 1645. Published by authority.</title>
+            <author>Pye, Robert, Sir, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91374</idno>
+            <idno type="STC">Wing P4255</idno>
+            <idno type="STC">Thomason E287_6</idno>
+            <idno type="EEBO-CITATION">99860893</idno>
+            <idno type="PROQUEST">99860893</idno>
+            <idno type="VID">158556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E287[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more exact relation of the siege laid to the town of Leicester: how it was maintained, and how lost, and what quarter was given by the Kings forces. / Delivered in to the Honourable House of Commons by Sir Robert Pye governour of the said town, and Major Iames Ennis, June 10. 1645. Published by authority.</title>
+                  <author>Pye, Robert, Sir, d. 1701.</author>
+                  <author>Innes, James, Major.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field for Laurance Chapman,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Leicester (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158556:1" rendition="simple:additions"/>
+            <p>A more Exact RELATION OF The Siege laid to the Town of LEICESTER: How it was maintained, and how loſt, and what Quarter was given by the Kings Forces.</p>
+            <p>Delivered in to the Honourable Houſe of Commons by Sir <hi>Robert Pye</hi> Governour of the ſaid Town, and Major <hi>Iames Ennis,</hi> June 10. 1645.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed by <hi>Iohn Field</hi> for <hi>Laurence Chapman,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:158556:2"/>
+            <pb n="3" facs="tcp:158556:2"/>
+            <head>An Exact Relation of the Siege laid to the Town of <hi>Leiceſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon Tueſday being the 28. of <hi>May</hi> laſt paſt, Major <hi>Ennis</hi> intended to march to <hi>Nottingham</hi> (being then quartered at <hi>Hum<g ref="char:EOLhyphen"/>berſton</hi> a mile from <hi>Leiceſter</hi>) with the Troops then under his command, and ſo to the Scotiſh Army, and had drawn his Troops all to a Rendezvous for this end: In the mean time there came to him an Expreſſe from the Committee of <hi>Leiceſter,</hi> ſignifying that the enemy with a conſiderable ſtrength of Horſe, had approached their Town of <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> and that they had probable Intelligence, that they intended to reduce that Town to their obedience, intima<g ref="char:EOLhyphen"/>ting their great neceſſity for want of horſe, and earneſtly deſiring the aſſiſtance of Major <hi>Ennis</hi> with his Troops, which he declined at firſt, by reaſon he was upon his march to <hi>Nottingham;</hi> but after he had marched a mile from his Quarters, another Meſſenger did come to him in all haſt, deſiring his aide, and intreating not to deſert them in ſuch an exigence, declaring publikely before both Of<g ref="char:EOLhyphen"/>ficers and Souldiers, that there was quarters provided in the Innes of the Town for the ſeverall Troops, and all accomodations fitting for horſe and men; Whereupon
+<pb n="4" facs="tcp:158556:3"/>Major <hi>Ennis,</hi> did draw back his Troops toward <hi>Leiceſter,</hi> and being requeſted by a Letter from Sir <hi>Robert Pye</hi> (writ<g ref="char:EOLhyphen"/>ten by the advice of the Committee) to joyn with, and aſſiſt the horſe properly belonging to this Garriſon under the Command of Captain <hi>Babington,</hi> who was then al<g ref="char:EOLhyphen"/>moſt engaged with the enemy before the Town, but the enemy having drawn up above 2000. horſe cloſe to the walls, Major <hi>Ennis</hi> (though with very great danger in his paſſage) marched into the Town, and drew off the Troops belonging to the garriſon, after ſome skirmiſh wherein ſome priſoners were taken, and two killed.</p>
+            <p>Upon Wedneſday the 29. about eight in the morning, the whole body of the enemies horſe drew up before the Town, and ſurrounded it, and with ſeverall parties of horſe were trying all places of advantage for making their approaches, and conſidering the confuſion and danger like to enſue in waiting for Orders from the Committee, it was reſolved that the chief Command ſhould be entruſted to one; whereupon the Government of the Town was committed to Sir <hi>Robert Pye,</hi> and immediatly he taking the ſame into his care, gave Order to Major <hi>Ennis</hi> to ſally out with all the horſe in Town, which he accordingly did, and beat all the enemies parties cloſe to their bodies, and hindred them from making any batteries that day, or any neerer approaches, and afterwards drew his horſe neer the walls, waiting opportunities of the enemy: In the af<g ref="char:EOLhyphen"/>ternoon Major <hi>Ennis</hi> commanded a party to engage ſome to the enemies horſe, under the command of Lieutenant <hi>Davis,</hi> who charged the enemy, and cauſed them retire to <hi>Belgrave</hi> Bridge, in the Charge we had ſeverall woun<g ref="char:EOLhyphen"/>ded, and two of Major <hi>Ennis</hi> Troop were run through with Pikes.</p>
+            <pb n="5" facs="tcp:158556:3"/>
+            <p>Upon Thurſday the 30. The enemies whole Infantry appeared before the Town, and dividing themſelves in three ſeverall bodies, they approached the Town at the South bridge, and St. <hi>Sondayes</hi> bridge, they were quiet all that day, only ſome ſmall skirmiſhing with horſe; to<g ref="char:EOLhyphen"/>wards night they began to work diligently, and before morning they had a fair battery raiſed before the South Bridge, and their Cannon planted: Howbeit we cauſed the Souldiers give fire upon that place where they were digging, both with Muſquet and Canon (it being within Muſquet ſhot of the walls) to hinder their working: At St. <hi>Sondayes</hi> Bridge the enemy did lodge themſelves in the houſes adjacent to the Bridge, and were beginning to work, which being perceived, twenty of the Troopers un<g ref="char:EOLhyphen"/>der command of Major <hi>Ennis</hi> ſallied over the Bridge on foot, and with Carbines beat the enemy from the houſes, and burned them down to the ground.</p>
+            <p>Upon Fryday their Batteries being ready, the Enemy ſhot ſome Canon and immediatly ſummoned the Town by a Trumpeter, but the ſummons being directed to the Officers, Souldiers and Townſmen of <hi>Leicester,</hi> it was thought convenient by the Committees, that the Com<g ref="char:EOLhyphen"/>mon Counſell of the Town ſhould be conveened, and an Anſwer directed to the Prince, who did ſigne the Sum<g ref="char:EOLhyphen"/>mons; but they being ſlow in their appearing to give ad<g ref="char:EOLhyphen"/>viſe either herein, or aſſiſtance at the walls; Prince <hi>Rupert</hi> deſired again a ſpeedy Anſwer, and the immediate return of his Trumpeter: But the Committee and Townſmen being devided, there could no Anſwer be made at that time, but a Trumpeter was ſent from the Committee with a Paper, bearing Superſcription to the Commander in Chief, with all, deſiring a time for their Anſwer, and a
+<pb n="6" facs="tcp:158556:4"/>deſiſting from any further working: But Prince <hi>Rupert</hi> diſdaining to receive a Paper with ſuch a Superſcription, cauſed play very hot upon the Town with Canon and Muſquet, and ſuddenly with his great Canon made a breach in the Newark-wall, which quarter of the Town was aſſigned to Major <hi>Ennis</hi> to defend; but a Counter Line paralell to the ſtone Wall, was raiſed, and with ad<g ref="char:EOLhyphen"/>mirable haſte was perfected, and to the ſpeedy ef<g ref="char:EOLhyphen"/>fectuating thereof, they cauſed their Troopers alight from their horſes, and dig and work whileſt the Canon was hotteſt playing upon them; about ten of the clock at night, all their Canon were ſhot off at once, which was their ſigne to ſtorm upon all Quarters; they did draw the moſt of their ſtrength to the breach which they had made in Newark wall; and not thinking of any Work made within that Breach, they with confidence entred, and beat our Musketiers from the loupholes of the ſtone wall: Major <hi>Ennis</hi> perceiving the Enemy to have entred the Breach, drew his Horſe down towards them, and cauſed ſome troopers ſerve with carbines on foot, &amp; with the reſt of his Horſe upon the footgang of the Line, beat the Enemy back with loſſe. The Enemy attempted a<g ref="char:EOLhyphen"/>gain, and entred the Breach, and all the Musketiers there run away baſely; ſo that Major <hi>Ennis</hi> was forced to main<g ref="char:EOLhyphen"/>tain that Breach with his Horſe, and ſome he cauſed quit their Horſe and ſerve on foot, and with admirable reſolu<g ref="char:EOLhyphen"/>tion repulſed the Enemy five ſeverall ſtormes, and cauſed them at laſt draw quite off; and did conceive no proba<g ref="char:EOLhyphen"/>bility in entring there, for there was a peece of our beſt Canon drawn thither, and load with Caſe-ſhot, did won<g ref="char:EOLhyphen"/>derfull execution upon the Enemy; yea, by their own Relation, there was killed and made unſerviceable, neer
+<pb n="7" facs="tcp:158556:4"/>three hundred men, beſides ſeverall Officers of Eminen<g ref="char:EOLhyphen"/>cy, ſuch as Collonel <hi>St. Johns,</hi> his Lieutenant Collonel, Major <hi>Bullington</hi> and others. It is worthy of Relation, That when our Canoneer at the Breach was killed, a Dutchman under Major <hi>Ennis</hi> Command, quit his Horſe and diſcharged the duty of a Canoneer faithfully (being well experienced therein) and did very good ſervice till he was thruſt through the body with a Pike: Whil'ſt Major <hi>Ennis</hi> was engaged in this hot diſpute, the Enemy had entred the Town at the other Poſts; namely at <hi>Bel<g ref="char:EOLhyphen"/>grave,</hi> and were ſuffered to ſcale the Line with three Lad<g ref="char:EOLhyphen"/>ders at St. <hi>Margarets,</hi> without diſcharging a Muſket, and thereafter to let down one of the Bridges, which gave way to all the reſt to enter: Sir <hi>Robert Pye</hi> thinking to re<g ref="char:EOLhyphen"/>pulſe the Enemy at that Bridge, with much courage Mar<g ref="char:EOLhyphen"/>ched towards them with ſome Horſe, and moſt gallantly cauſed many of them run, but being much over-powered with multitudes, was at length taken Priſoner.</p>
+            <p>Major <hi>Ennis</hi> having repulſed the Enemy thus from the Breach, and conceiving that place then tenable with a fewer number, went with intention to view the reſt of the Poſts in Town, and left that well beſet, under the charge of his own Lieutenant, and one Captain <hi>Hacker,</hi> and with the reſt of his Horſe, encountred the Enemies Horſe at the South gate, where he beat them back to their foot and Canon, which were advanced as far as the Market place, and afterwards retired to the Newark, which he main<g ref="char:EOLhyphen"/>tained till he had fair Quarters granted to him and his Souldiers, which the Enemy performed, but Plundered them of all they had.</p>
+            <p>All the Reward we had of the Townſmen for our ſer<g ref="char:EOLhyphen"/>vice in their defence, was, that after the Town was poſ<g ref="char:EOLhyphen"/>ſeſſed by the Enemy, and we in their power, they railed a<g ref="char:EOLhyphen"/>gainſt
+<pb n="8" facs="tcp:158556:5"/>us, and by incenſing the Enemy, endeavoured to ſtir them up to uſe us hardly, ſaying, if it had not been for Sir <hi>Robert Pye,</hi> and Major <hi>Ennis,</hi> with the Scotch men, there had been no blood ſhed, the Town had been peace<g ref="char:EOLhyphen"/>ably Surrendred and not Plundered.</p>
+            <p>All that we could inform our ſelves of the Enemies deſignes, was, that they had once fully reſolved to go Northward, to reſcue <hi>Chester,</hi> march into <hi>Lancaſhire,</hi> raiſe the Siege of <hi>Carliſle,</hi> and ſend an Army into <hi>Scotland:</hi> But being prevented, they altered their deſignes, and we heard His Majeſty was reſolved, though it ſhould coſt him never ſo dear, that he would raiſe the ſiege of <hi>Oxford;</hi> the ſtrength of the Enemy ſo far as we could learn, was not ten thou<g ref="char:EOLhyphen"/>ſand Horſe and Foot, whereof many ill Armed, eſpecial<g ref="char:EOLhyphen"/>ly their Horſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
